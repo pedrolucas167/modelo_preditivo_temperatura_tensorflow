@@ -1,5 +1,2 @@
 # modelo_preditivo_temperatura_tensorflow
-# modelo_preditivo_temperatura_tensorflow
-# modelo_preditivo_temperatura_tensorflow
-# modelo_preditivo_temperatura_tensorflow
-# modelo_preditivo_temperatura_tensorflow
+
