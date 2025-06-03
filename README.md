@@ -1,5 +1,4 @@
-
-Em vez disso, o modelo é alimentado com pares de entrada/saída e aprende a prever os valores corretos.
+O modelo é alimentado com pares de entrada/saída e aprende a prever os valores corretos.
 
 ---
 
